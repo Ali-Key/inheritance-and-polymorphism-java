@@ -55,7 +55,6 @@ public class Main {
 //            System.out.println("Triangle is:"+ (tr.isFilled(filled)? "" :  "not")+
 //                    "filled") ;
 
-
         Employee em = new Employee();
         em.InputData();
         em.PrintData();
